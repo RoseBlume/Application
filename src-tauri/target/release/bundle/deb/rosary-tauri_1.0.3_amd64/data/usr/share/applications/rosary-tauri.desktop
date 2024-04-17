@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=
+Comment=A Bible App
+Exec=rosary-tauri
+Icon=rosary-tauri
+Name=rosary-tauri
+Terminal=false
+Type=Application

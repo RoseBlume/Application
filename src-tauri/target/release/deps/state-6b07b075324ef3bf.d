@@ -1,0 +1,12 @@
+/home/james/Documents/tauri/Rosary/src-tauri/target/release/deps/libstate-6b07b075324ef3bf.rmeta: /home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/lib.rs /home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/ident_hash.rs /home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/storage.rs /home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/init.rs /home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/shim.rs /home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/container.rs
+
+/home/james/Documents/tauri/Rosary/src-tauri/target/release/deps/libstate-6b07b075324ef3bf.rlib: /home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/lib.rs /home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/ident_hash.rs /home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/storage.rs /home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/init.rs /home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/shim.rs /home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/container.rs
+
+/home/james/Documents/tauri/Rosary/src-tauri/target/release/deps/state-6b07b075324ef3bf.d: /home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/lib.rs /home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/ident_hash.rs /home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/storage.rs /home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/init.rs /home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/shim.rs /home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/container.rs
+
+/home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/lib.rs:
+/home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/ident_hash.rs:
+/home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/storage.rs:
+/home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/init.rs:
+/home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/shim.rs:
+/home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.5.3/src/container.rs:

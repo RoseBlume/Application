@@ -1,0 +1,8 @@
+/home/james/Documents/tauri/Rosary/src-tauri/target/release/deps/libbyteorder-dc61d7f29f10ad80.rmeta: /home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/byteorder-1.5.0/src/lib.rs /home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/byteorder-1.5.0/src/io.rs
+
+/home/james/Documents/tauri/Rosary/src-tauri/target/release/deps/libbyteorder-dc61d7f29f10ad80.rlib: /home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/byteorder-1.5.0/src/lib.rs /home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/byteorder-1.5.0/src/io.rs
+
+/home/james/Documents/tauri/Rosary/src-tauri/target/release/deps/byteorder-dc61d7f29f10ad80.d: /home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/byteorder-1.5.0/src/lib.rs /home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/byteorder-1.5.0/src/io.rs
+
+/home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/byteorder-1.5.0/src/lib.rs:
+/home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/byteorder-1.5.0/src/io.rs:
