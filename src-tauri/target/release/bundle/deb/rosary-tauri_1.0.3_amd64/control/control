@@ -1,9 +1,0 @@
-Package: rosary-tauri
-Version: 1.0.3
-Architecture: amd64
-Installed-Size: 18637
-Maintainer: James Rose
-Priority: optional
-Depends: libwebkit2gtk-4.0-37, libgtk-3-0
-Description: A Bible App
- (none)

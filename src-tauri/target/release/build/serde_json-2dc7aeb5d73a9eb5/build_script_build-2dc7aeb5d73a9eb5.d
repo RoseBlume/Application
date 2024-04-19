@@ -1,5 +1,0 @@
-/home/james/Documents/tauri/Rosary/src-tauri/target/release/build/serde_json-2dc7aeb5d73a9eb5/build_script_build-2dc7aeb5d73a9eb5: /home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_json-1.0.115/build.rs
-
-/home/james/Documents/tauri/Rosary/src-tauri/target/release/build/serde_json-2dc7aeb5d73a9eb5/build_script_build-2dc7aeb5d73a9eb5.d: /home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_json-1.0.115/build.rs
-
-/home/james/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_json-1.0.115/build.rs:
